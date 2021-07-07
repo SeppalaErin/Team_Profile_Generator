@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    background-color: slategray;
+}
+
+#background-banner {
+    background-color: black;
+    text-align: center;
+    padding: 50px
+}
+
+.card {
+    width: 350px;
+
+}
+
+.card-header {
+    display: inline-block;
+    text-align: auto;
+    font-weight: bold;
+}
+
+.columns {
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    padding: 50px;
+}
+
+.profile {
+    margin: 20px;
+}
